@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi, I'm Sam Geydelman 👋
 
-<!--
-**sgeydelman/sgeydelman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a Software Engineer based in San Jose, California, specializing in C# development, automation, and software architecture.
 
-Here are some ideas to get you started:
+## 🛠️ Tech Stack & Skills
+* **Languages:** C#, .NET, SQL
+* **Specialties:** Desktop Application Development, Automation Systems, Financial Tools
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📁 Featured Projects
+* **[WinFinanceApp](https://github.com)** - A specialized Windows-based finance application.
+* **[WinQuantumEraser](https://github.com)** - A C# application focused on quantum eraser simulations/utilities.
+
+## 🌐 Connect With Me
+* 💼 [LinkedIn](https://linkedin.com)
+* 📸 [Flickr Portfolio](https://flickr.com)
