@@ -16,8 +16,8 @@ I am a Software Engineer based in San Jose, California, specializing in C# devel
 * **Specialties:** Desktop Application Development, Automation Systems, Financial Tools
 
 ## 📁 Featured Projects
-* **[WinFinanceApp](https://github.com)** - A specialized Windows-based finance application.
-* **[WinQuantumEraser](https://github.com)** - A C# application focused on quantum eraser simulations/utilities.
+* **[WinFinanceApp](https://github.com/sgeydelman/WinFinanceApp)** - A specialized Windows-based finance application.
+* **[WinQuantumEraser](https://github.com/sgeydelman/WinQuantumEraser)** - A C# application focused on quantum eraser simulations/utilities.
 
 ## 🌐 Connect With Me
 [![LinkedIn](https://shields.io)](https://linkedin.com)
