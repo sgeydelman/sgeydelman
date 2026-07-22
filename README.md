@@ -4,7 +4,7 @@
   <img src="https://komarev.com" alt="sgeydelman profile views" />
 </p>
 
-I am a Software Engineer based in San Jose, California, specializing in C# development, automation, and software architecture.
+I am a Software Developer based in San Jose, California, specializing in C# development, automation, and software architecture.
 
 ## 🛠️ Tech Stack & Skills
 ![C#](https://shields.io) 
