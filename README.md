@@ -1,8 +1,17 @@
 # Hi, I'm Sam Geydelman 👋
 
+<p align="left">
+  <img src="https://komarev.com" alt="sgeydelman profile views" />
+</p>
+
 I am a Software Engineer based in San Jose, California, specializing in C# development, automation, and software architecture.
 
 ## 🛠️ Tech Stack & Skills
+![C#](https://shields.io) 
+![.NET](https://shields.io) 
+![SQL](https://shields.io)
+![Git](https://shields.io)
+
 * **Languages:** C#, .NET, SQL
 * **Specialties:** Desktop Application Development, Automation Systems, Financial Tools
 
@@ -11,5 +20,5 @@ I am a Software Engineer based in San Jose, California, specializing in C# devel
 * **[WinQuantumEraser](https://github.com)** - A C# application focused on quantum eraser simulations/utilities.
 
 ## 🌐 Connect With Me
-* 💼 [LinkedIn](https://linkedin.com)
-* 📸 [Flickr Portfolio](https://flickr.com)
+[![LinkedIn](https://shields.io)](https://linkedin.com)
+[![Flickr](https://shields.io)](https://flickr.com)
