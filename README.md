@@ -20,5 +20,5 @@ I am a Software Engineer based in San Jose, California, specializing in C# devel
 * **[WinQuantumEraser](https://github.com/sgeydelman/WinQuantumEraser)** - A C# application focused on quantum eraser simulations/utilities.
 
 ## 🌐 Connect With Me
-[![LinkedIn](https://shields.io)](https://linkedin.com)
+[![LinkedIn](https://shields.io)](https://www.linkedin.com/in/sam-geydelman-bb196023/)
 [![Flickr](https://shields.io)](https://flickr.com)
